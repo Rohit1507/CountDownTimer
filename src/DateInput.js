@@ -4,7 +4,7 @@ import './DateInput.css';
 function DateInput({getDate,setDateString,reset}){
     return(
         <div className = "Date--input">
-            <input type = "text" onChange = {getDate} placeholder = "Enter Date in Form of 1 jan 2022 20:45:56" />
+            <input type = "text" onChange = {getDate} placeholder = "1 jan 2022 20:45:56" />
             <button type = "submit" onClick = {setDateString} >submit</button>
         </div>
         
