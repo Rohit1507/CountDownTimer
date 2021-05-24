@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CountDownTimer/static/css/main.2ae684ff.chunk.css",
+    "main.js": "/CountDownTimer/static/js/main.e1321f4d.chunk.js",
+    "main.js.map": "/CountDownTimer/static/js/main.e1321f4d.chunk.js.map",
+    "runtime-main.js": "/CountDownTimer/static/js/runtime-main.3c33d5fb.js",
+    "runtime-main.js.map": "/CountDownTimer/static/js/runtime-main.3c33d5fb.js.map",
+    "static/js/2.f676fc46.chunk.js": "/CountDownTimer/static/js/2.f676fc46.chunk.js",
+    "static/js/2.f676fc46.chunk.js.map": "/CountDownTimer/static/js/2.f676fc46.chunk.js.map",
+    "static/js/3.0bdbbb3b.chunk.js": "/CountDownTimer/static/js/3.0bdbbb3b.chunk.js",
+    "static/js/3.0bdbbb3b.chunk.js.map": "/CountDownTimer/static/js/3.0bdbbb3b.chunk.js.map",
+    "index.html": "/CountDownTimer/index.html",
+    "static/css/main.2ae684ff.chunk.css.map": "/CountDownTimer/static/css/main.2ae684ff.chunk.css.map",
+    "static/js/2.f676fc46.chunk.js.LICENSE.txt": "/CountDownTimer/static/js/2.f676fc46.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CountDownTimer/static/media/images.4a03e017.jpg",
+    "static/media/logo.6ce24c58.svg": "/CountDownTimer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c33d5fb.js",
+    "static/js/2.f676fc46.chunk.js",
+    "static/css/main.2ae684ff.chunk.css",
+    "static/js/main.e1321f4d.chunk.js"
+  ]
+}
