@@ -1,0 +1,7 @@
+body {
+  
+/* for image to whole background */
+  background: url("./images.jpg") no-repeat center; 
+  background-size: cover;
+  background-attachment: fixed;
+}

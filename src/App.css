@@ -1,0 +1,12 @@
+/* .App {
+  background: url("./images.jpg") no-repeat center; 
+  background-size: cover;
+  background-attachment: fixed;
+} */
+.error-message {
+  text-align: center;
+  margin: 40px;
+  padding: 20px;
+  color: crimson;
+  background-color: rgb(36, 3, 3);
+}

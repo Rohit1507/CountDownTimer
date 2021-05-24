@@ -1,0 +1,63 @@
+div{
+    display: block;
+    box-sizing: border-box;
+}
+
+.count--down--time{
+    padding: 40px;
+    margin: 40px 120px;
+    color: brown;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 50px;
+    letter-spacing: 1.6px;
+    font-weight: 700;
+    font-style: italic;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+
+}
+
+.count--down--time span{
+    font-size: 40px;
+    font-style: oblique;
+    color: rgb(216, 213, 187);
+    padding: 8px;
+    margin: 10px;
+    border-radius: 19px;
+    box-shadow: -3px 2px 13px 6px rgba(8, 8, 8, 0.83);
+    background-color: rgba(0, 0, 0, 0.83);
+}
+
+
+p{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 27px;
+  letter-spacing: 0.2px;
+  word-spacing: 1.8px;
+  color: rgb(97, 95, 105);
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: capitalize;
+}
+
+
+@media screen and (max-width: 900px) {
+    .count--down--time {
+      padding: 40px;
+      margin: 0 !important;
+    }
+}
+
+@media screen and (max-width: 800px){
+  .count--down--time span{
+         display: flex;
+         justify-content: flex-start;
+  }
+}
+
+
